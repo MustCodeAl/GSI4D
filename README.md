@@ -1,5 +1,7 @@
 # GSI4D - Google search improve for developers
-Updated with american sites!
+
+Oct-25-2023 Updated performance and added American sites!
+
 Highlight my favorite high quality sites and **Hide my hate sites**.
 
 ## NOTE
