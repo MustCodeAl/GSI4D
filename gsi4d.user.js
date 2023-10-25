@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name		GSI4D - Google search improve for developers
 // @description	Google search improve for developers.
-// @version		1.4.10
+// @version		1.4.12
 // @include		/^https://www\.google\.co(m|\.jp)/search.+$/
-// @author		yanorei32
+// @author		yanorei32(modified by mustcodeal)
 // @supportURL	https://github.com/yanorei32/GSI4D/issues
 // @website		http://yano.teamfruit.net/~rei/
 // @namespace	http://yano.teamfruit.net/~rei/
@@ -66,6 +66,7 @@
                 'railsdoc.com',
                 'rubygems.org',
                 // Python
+                'postgresql.org',
                 'python.org',
                 'requests-docs-ja.readthedocs.io',
                 'python-requests.org',
@@ -85,6 +86,10 @@
                 'doc.rust-lang.org',
                 'rust-lang.org',
                 'docs.rs',
+                'source.chromium.org',
+                'graphql.org',
+                'docs.diesel.rs',
+                'sm.alliedmods.net',
             ],
         },
 
@@ -93,9 +98,17 @@
             color: '#0FF1',
             list: [
 
+                '30secondsofcode.org',
                 'actix.rs',
+                'pypi.org',
                 'andreasbm.github.io',
                 'arewewebyet.org',
+                'arewegameyet.rs',
+                'arewedistributedyet.rs',
+                'arewefastyet.com',
+                'areweguiyet.com',
+                'gist.github.com',
+                'mysqltutorial.org',
                 'awesome-rust.com',
                 'awesome.red-badger.com',
                 'blog.cloudflare.com',
@@ -116,13 +129,16 @@
                 'ctf101.org',
                 'dev.to',
                 'devdocs.io',
+                'developer.amazon.com',
                 'developer.apple.com',
                 'developer.mozilla.org',
                 'developer.valvesoftware.com',
                 'doc.qt.io',
-                'doc.qt.io',
                 'doc.rust-lang.org',
                 'docs.near.org',
+                'digitalocean.com',
+                'freecodecamp.org',
+                'codeacademy.com',
                 'geeksforgeeks.org',
                 'getfrontend.tips',
                 'golang.org',
@@ -141,11 +157,13 @@
                 'rosettacode.org',
                 'rust-lang.github.io',
                 'rust-unofficial.github.io',
+                'rust-lang-nursery.github.io',
                 'rustwasm.github.io',
                 'searchcode.com',
                 'serde.rs',
                 'source.chromium.org',
                 'sourcegraph.com',
+                'sourcemod.net',
                 'systemdesign.one',
                 'tauri.app',
                 'tohoho-web.com',
@@ -153,11 +171,13 @@
                 'tutorialspoint.com',
                 'wiki.osdev.org',
                 'windowscentral.com',
-                'www.composingprograms.com',
-                'www.exploit-db.com',
-                'www.infoq.com',
-                'www.tutorialspoint.com',
-                'www.zenrows.com',
+                'webassemblyman.com',
+                'composingprograms.com',
+                'learncomputerscienceonline.com',
+                'exploit-db.com',
+                'infoq.com',
+                'yew.rs',
+                'zenrows.com',
             ],
         },
 
@@ -172,6 +192,9 @@
                 'askubuntu.com',
                 'reddit.com',
                 'answers.unity.com',
+                'indiehackers.com',
+                'medium.com',
+                'alliedmods.net',
             ],
         },
 
