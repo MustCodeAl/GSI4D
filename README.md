@@ -1,4 +1,5 @@
 # GSI4D - Google search improve for developers
+Updated with american sites!
 Highlight my favorite high quality sites and **Hide my hate sites**.
 
 ## NOTE
@@ -8,7 +9,7 @@ We have lost a mobile browser with user script support.
 ## How to install
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) to your browser.
-1. Click [gsi4d.user.js raw link](https://github.com/Yanorei32/GSI4D/raw/master/gsi4d.user.js).
+1. Click [gsi4d.user.js raw link](https://github.com/MustCodeAl/GSI4D/raw/master/gsi4d.user.js).
 1. Enjoy!
 
 ## Sample
